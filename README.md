@@ -1,6 +1,5 @@
-Introduction: [![Build Status](https://travis-ci.org/shirishk/Java-Selenium-TestNG-Automation-Framework.svg?branch=master)](https://travis-ci.org/shirishk/Java-Selenium-TestNG-Automation-Framework) [![Join the chat at https://gitter.im/shirishk/Java-Selenium-TestNG-Automation-Framework](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shirishk/Java-Selenium-TestNG-Automation-Framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Introduction:
 ---------------
-
 
 This Test Automation Framework is created using Java + Selenium Web Driver + TestNG. Which can be used across different web based applications.
 In this approach, the endeavor is to build a lot of applications independent reusable keyword components so that they can directly used for another web application without spending any extra effort. 
